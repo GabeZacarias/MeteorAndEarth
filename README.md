@@ -1,4 +1,4 @@
-# MeteorIncoming
+# MeteorAndEarth
 Program will ask the user to give the meteors size and distance. With this information, program will output the follng.
  - Meteor Data
    - Diameter
